@@ -1,0 +1,10 @@
+Sklearn manual pipeline -- RandomForestClassifier
+======================================================================
+              precision    recall  f1-score   support
+
+          no     0.9163    0.9723    0.9434      1407
+         yes     0.6355    0.3523    0.4533       193
+
+    accuracy                         0.8975      1600
+   macro avg     0.7759    0.6623    0.6984      1600
+weighted avg     0.8824    0.8975    0.8843      1600

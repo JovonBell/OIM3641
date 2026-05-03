@@ -1,0 +1,10 @@
+pycaret==3.3.2
+fastapi==0.111.0
+uvicorn==0.30.1
+pydantic==2.7.4
+ucimlrepo==0.0.7
+pandas
+scikit-learn
+matplotlib
+joblib
+requests
